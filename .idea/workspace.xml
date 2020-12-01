@@ -20,24 +20,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42abc290-8f7c-49fa-bce1-774365772231" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dist/assets/images/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/assets/images/post-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/assets/images/post-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/post-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/post-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_embed.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_post.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/images/image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/images/share.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/share.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_comments.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_form.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_related.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/post.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/assets/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/css/style.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/app.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scss/blocks/_add-post.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_add-post.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scss/blocks/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/blocks/_btn.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_btn.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/blocks/_embed.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_embed.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/blocks/_nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_nav.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/blocks/_post.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_post.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/blocks/_subnav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_subnav.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/partials/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/partials/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/partials/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/partials/header.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +82,9 @@
       <option name="presentableId" value="Default" />
       <updated>1606584840949</updated>
       <workItem from="1606584850167" duration="10085000" />
-      <workItem from="1606635303534" duration="15119000" />
+      <workItem from="1606635303534" duration="16619000" />
+      <workItem from="1606764834093" duration="681000" />
+      <workItem from="1606831184590" duration="11627000" />
     </task>
     <servers />
   </component>
@@ -92,8 +101,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="434" y="-649" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606839974497">
+      <screen x="-120" y="-900" width="1600" height="900" />
+    </state>
+    <state x="434" y="-649" key="#com.intellij.fileTypes.FileTypeChooser/0.30.1366.738/-120.-900.1600.900@-120.-900.1600.900" timestamp="1606839974497" />
     <state width="1577" height="235" key="GridCell.Tab.0.bottom" timestamp="1606586262580">
       <screen x="-120" y="-900" width="1600" height="900" />
     </state>
@@ -114,5 +128,13 @@
       <screen x="-120" y="-900" width="1600" height="900" />
     </state>
     <state x="195" y="-806" key="SettingsEditor/0.30.1366.738/-120.-900.1600.900@-120.-900.1600.900" timestamp="1606592224302" />
+    <state x="336" y="-244" key="run.anything.popup" timestamp="1606843247024">
+      <screen x="-120" y="-900" width="1600" height="900" />
+    </state>
+    <state x="336" y="-244" key="run.anything.popup/0.30.1366.738/-120.-900.1600.900@-120.-900.1600.900" timestamp="1606843247024" />
+    <state x="343" y="-710" width="672" height="678" key="search.everywhere.popup" timestamp="1606832437998">
+      <screen x="-120" y="-900" width="1600" height="900" />
+    </state>
+    <state x="343" y="-710" width="672" height="678" key="search.everywhere.popup/0.30.1366.738/-120.-900.1600.900@-120.-900.1600.900" timestamp="1606832437998" />
   </component>
 </project>
