@@ -20,31 +20,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42abc290-8f7c-49fa-bce1-774365772231" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dist/assets/images/image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/assets/images/share.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/assets/images/user.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/share.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/user.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_comments.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_form.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_related.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/images/project.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/images/project2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/works.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/project.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/project2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_tags.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_work.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/works.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/assets/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/css/style.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/app.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/post.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/scss/blocks/_btn.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_btn.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scss/blocks/_embed.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_embed.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scss/blocks/_nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_nav.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scss/blocks/_post.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_post.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scss/blocks/_subnav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_subnav.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/blocks/_page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_page.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/partials/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/partials/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/partials/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/partials/sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/post.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +80,8 @@
       <workItem from="1606584850167" duration="10085000" />
       <workItem from="1606635303534" duration="16619000" />
       <workItem from="1606764834093" duration="681000" />
-      <workItem from="1606831184590" duration="11627000" />
+      <workItem from="1606831184590" duration="11779000" />
+      <workItem from="1607005547362" duration="4662000" />
     </task>
     <servers />
   </component>
