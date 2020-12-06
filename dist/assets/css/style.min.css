@@ -329,10 +329,12 @@ html {
 
 body {
   background-color: #181818;
-  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   font-size: 1.4rem;
   color: #fff;
   line-height: 1.5; }
+  body.no-scroll {
+    overflow: hidden; }
 
 *,
 *:before,
@@ -462,18 +464,18 @@ a {
   color: #fff;
   text-decoration: none;
   border-radius: 3em;
-  transition: background .2s linear; }
+  transition: background 0.2s linear; }
   .btn:hover {
     text-decoration: none; }
   .btn--red {
     background: #ED3024;
     box-shadow: 0 7px 17px -10px rgba(237, 48, 36, 0.3); }
-    .btn--red:hover {
+    .btn--red:hover, .btn--red:focus {
       background: #e51f13; }
   .btn--blue {
     background: #3137C9;
     box-shadow: 0 7px 17px -10px rgba(49, 55, 201, 0.3); }
-    .btn--blue:hover {
+    .btn--blue:hover, .btn--blue:focus {
       background: #2c31b4; }
   .btn--rounded {
     border-radius: 0.41em; }
@@ -677,6 +679,7 @@ a {
 
 .post__title {
   margin-bottom: 1.5rem;
+  margin-top: 1.5rem;
   font-size: 1.8rem;
   color: #fff;
   font-weight: 500; }
@@ -693,8 +696,12 @@ a {
 .post__text {
   font-size: 1.4rem;
   color: #fff;
-  border-bottom: 1px solid #1C1C1C; }
-  .post__text h2, .post__text h3, .post__text h4, .post__text h5, .post__text h6 {
+  border-bottom: 1px solid #1c1c1c; }
+  .post__text h2,
+  .post__text h3,
+  .post__text h4,
+  .post__text h5,
+  .post__text h6 {
     font-weight: 700;
     margin-bottom: 2rem; }
   .post__text h2 {
@@ -703,9 +710,11 @@ a {
     font-size: 1.25em; }
   .post__text h4 {
     font-size: 1.15em; }
-  .post__text h5, .post__text h6 {
+  .post__text h5,
+  .post__text h6 {
     font-size: 1em; }
-  .post__text ul, .post__text ol {
+  .post__text ul,
+  .post__text ol {
     margin-bottom: 2rem; }
   .post__text ol {
     list-style: decimal;
@@ -748,14 +757,14 @@ a {
   width: 6px;
   height: 6px;
   border-radius: 50%;
-  background: #C4C4C4;
+  background: #c4c4c4;
   margin: 0 1.5rem;
   position: relative;
   top: -2px; }
 
 .post__read {
   font-size: 1.4rem;
-  color: #107EFF; }
+  color: #107eff; }
 
 .post__actions {
   display: flex;
@@ -767,11 +776,11 @@ a {
     opacity: 0.6;
     color: inherit; }
     .post__actions a:hover {
-      transition: opacity .2s linear;
+      transition: opacity 0.2s linear;
       opacity: 1; }
 
 .post__actions-icon {
-  margin-left: .5rem; }
+  margin-left: 0.5rem; }
 
 .post__subtitle {
   margin-top: 3rem;
@@ -1033,3 +1042,55 @@ a {
 
 label.cabinet__file {
   padding-left: 1.5rem; }
+
+.modal {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1010;
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 1rem; }
+
+.modal__content {
+  position: relative;
+  width: 100%;
+  max-width: 50rem;
+  padding: 8rem;
+  background-color: #202020;
+  border-radius: 5px; }
+  .modal__content--contact {
+    padding-bottom: 2.5rem; }
+
+.modal__close {
+  padding: 0;
+  background: none;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  top: 2rem;
+  right: 2rem;
+  transition: transform 0.2s linear, opacity 0.2s linear;
+  opacity: 0.5; }
+  .modal__close:hover {
+    transform: rotate(90deg);
+    opacity: 1; }
+
+.modal__footer {
+  display: flex;
+  justify-content: center;
+  font-size: 1.2rem;
+  color: #b2b2b2;
+  margin-top: 4rem; }
+  .modal__footer li {
+    margin: 0 0.5rem; }
+  .modal__footer a {
+    color: inherit;
+    text-decoration: underline; }
+    .modal__footer a:hover {
+      text-decoration: none; }
