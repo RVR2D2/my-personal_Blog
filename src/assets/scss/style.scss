@@ -1,4 +1,5 @@
 @import 'vars';
+@import 'mixins';
 @import 'vendor/reset';
 
 html {
@@ -13,7 +14,9 @@ body {
     font-size: 1.4rem;
     color: $white;
     line-height: 1.5;
-    &.no-scroll {
+
+    &.no-scroll,
+    &.show-sidebar {
         overflow: hidden;
     }
 }
@@ -55,3 +58,4 @@ a {
 @import 'blocks/tags';
 @import 'blocks/cabinet';
 @import 'blocks/modal';
+@import 'blocks/burger';
