@@ -21,8 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="42abc290-8f7c-49fa-bce1-774365772231" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/css/style.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/post.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/profile.html" afterDir="false" />
@@ -34,21 +32,22 @@
       <change beforePath="$PROJECT_DIR$/dist/works.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/works.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/scss/_vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/_vars.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/scss/blocks/_add-post.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_add-post.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/blocks/_burger.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_burger.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/scss/blocks/_cabinet.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_cabinet.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scss/blocks/_container.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_container.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scss/blocks/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/blocks/_comments.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_comments.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/scss/blocks/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scss/blocks/_modal.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_modal.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/scss/blocks/_nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_nav.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scss/blocks/_page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_page.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scss/blocks/_profile.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_profile.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scss/blocks/_sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_sidebar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scss/blocks/_social.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_social.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scss/blocks/_subnav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_subnav.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/blocks/_pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_pagination.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/blocks/_post.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_post.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/blocks/_related.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_related.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/blocks/_search.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_search.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/blocks/_stories.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_stories.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/blocks/_work.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/blocks/_work.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/partials/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/partials/header.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/partials/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/partials/sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/works.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/works.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +91,9 @@
       <workItem from="1607005547362" duration="4817000" />
       <workItem from="1607087659084" duration="7018000" />
       <workItem from="1607247066470" duration="1351000" />
-      <workItem from="1608739925823" duration="6736000" />
+      <workItem from="1608739925823" duration="6913000" />
+      <workItem from="1608824658453" duration="16000" />
+      <workItem from="1608909528611" duration="5177000" />
     </task>
     <servers />
   </component>
